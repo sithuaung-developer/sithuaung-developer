@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<h1>I'm Si Thu Aung</h1>
+<p> ⚡ I’m currently learning about Web project using C# and PHP.</p>
+
+
+
 <!--
 **sithuaung-developer/sithuaung-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
